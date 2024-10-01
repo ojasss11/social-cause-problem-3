@@ -1,0 +1,44 @@
+.all{
+    display: flex;
+    gap: 45px;
+    border-top: 1px solid black;
+    margin: 8px;
+    
+}
+.th{
+    border-radius: 1px;
+    margin-top: 1px;
+    height: 280px;
+}
+.cau,.case{
+    width: 600px;
+    text-align: justify;
+    padding-left: 10px;
+}
+img{
+
+    margin-top: 30px;
+   border-radius: 10px;
+    width: 300px;
+    height:230px;
+}
+
+h3,h4,h6{
+    padding-left:8px;
+}
+h4{
+    margin-top: 6px;
+}
+#ak{
+    border:none ;
+}
+h1{
+    text-align: center;
+}
+h5{
+    margin-left: 80px;
+    text-decoration: bold;
+}
+.all{
+    background-color: lavender;
+}
